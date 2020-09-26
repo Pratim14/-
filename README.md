@@ -1,4 +1,4 @@
-# -This will a Full on Video Conferencing WebApp 
+This will a Full on Video Conferencing WebApp 
 
 # Not only for Classrooms, but also for Professional Meetings.
 # Numerous Features are yet to be added
